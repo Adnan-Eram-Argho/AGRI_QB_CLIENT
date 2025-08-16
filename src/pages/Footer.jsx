@@ -7,7 +7,7 @@
 
 import { Link } from 'react-router-dom';
 
-const Home = () => {
+const Footer = () => {
   return (
     <div className="max-w-4xl mx-auto">
       <div className="text-center py-12">
@@ -55,4 +55,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default Footer;
